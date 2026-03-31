@@ -140,7 +140,7 @@ Campus-Notice-File-Sharing-System/
 
 # 👩‍💻 Author
 
-Dilsha Perera
-Higher Diploma in Software Engineering
-Enterprise Cloud Architecture
-IJSE
+🔸Dilsha Perera
+🔸Higher Diploma in Software Engineering
+🔸Enterprise Cloud Architecture
+🔸IJSE
