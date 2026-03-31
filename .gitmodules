@@ -1,0 +1,21 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/dilshag/api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/dilshag/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/dilshag/eureka-server.git
+[submodule "file-service"]
+	path = file-service
+	url = https://github.com/dilshag/file-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dilshag/frontend.git
+[submodule "notice-service"]
+	path = notice-service
+	url = https://github.com/dilshag/notice-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/dilshag/user-service.git
